@@ -1,0 +1,3 @@
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/initials/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/initials/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/initials/cmake-build-debug/CMakeFiles/initials.dir

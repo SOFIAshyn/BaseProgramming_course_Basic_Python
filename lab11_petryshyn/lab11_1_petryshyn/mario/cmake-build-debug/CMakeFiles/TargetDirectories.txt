@@ -1,0 +1,3 @@
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/mario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/mario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/mario/cmake-build-debug/CMakeFiles/mario.dir

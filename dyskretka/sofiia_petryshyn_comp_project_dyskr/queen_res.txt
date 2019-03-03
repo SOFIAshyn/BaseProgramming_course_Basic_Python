@@ -1,0 +1,1 @@
+On the board of 3 size you can put 3 queens in 0 ways

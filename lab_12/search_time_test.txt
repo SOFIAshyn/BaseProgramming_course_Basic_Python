@@ -1,0 +1,9 @@
+If we are looking for the first	 0.0008573410000000115
+If we are looking for the first	 0.0008479210000000292
+If we are looking for the first	 0.0008556009999999836
+If we are looking for middle	 0.006372876999999999
+If we are looking for middle	 0.0063809170000000415
+If we are looking for middle	 0.006508073999999975
+If we are looking for end	 0.011628597999999934
+If we are looking for end	 0.010852719000000066
+If we are looking for end	 0.01103768500000002

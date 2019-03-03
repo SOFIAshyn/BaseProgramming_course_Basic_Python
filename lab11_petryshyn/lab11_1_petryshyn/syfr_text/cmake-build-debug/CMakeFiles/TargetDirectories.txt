@@ -1,0 +1,3 @@
+/Users/sofia.petryshyn/Desktop/c_lab/lab_11/syfr_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sofia.petryshyn/Desktop/c_lab/lab_11/syfr_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofia.petryshyn/Desktop/c_lab/lab_11/syfr_text/cmake-build-debug/CMakeFiles/syfr_text.dir

@@ -1,0 +1,3 @@
+def weight():
+    Evil = []
+    Odious = []

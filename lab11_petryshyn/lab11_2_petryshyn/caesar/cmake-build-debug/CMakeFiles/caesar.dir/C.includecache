@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/caesar/main.c
+stdio.h
+-
+stdlib.h
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/caesar/stdlib.h
+string.h
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/caesar/string.h
+ctype.h
+/Users/sofia.petryshyn/Desktop/lab11_petryshyn/lab11_2_petryshyn/caesar/ctype.h
+
